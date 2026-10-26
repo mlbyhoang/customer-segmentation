@@ -1,3 +1,18 @@
+# Private datasets
+data/
+*.csv
+*.parquet
+
+# Credentials
+.env
+*.json
+credentials/
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
